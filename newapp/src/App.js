@@ -6,6 +6,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
+      <h1>What is your answer?</h1>
         <select>
           <option value='yes'>Yes</option>
           <option value='maybe'>Maybe</option>
